@@ -9,7 +9,7 @@ This tracker follows the "standard" DK64 randomizer ruleset (with more layouts t
 - Homing and sniper Funky upgrades
 - Fairy camera
 - Nintendo and Rareware coin
-- Golden Banana count (up to 50, per standard DK64 ruleset)
+- Golden Banana count (up to 50, per standard DK64 randomizer ruleset)
 - Keys and Crowns available in each level
 
 # Instructions for use:
