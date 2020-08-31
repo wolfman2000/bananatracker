@@ -3,12 +3,13 @@ An EmoTracker pack for the [Donkey Kong 64 randomizer](https://github.com/thebal
 <img src="https://raw.githubusercontent.com/2dos/bananatracker/master/bananatracker_example.PNG" />
 
 # Features
+This tracker follows the "standard" DK64 randomizer ruleset (with more layouts to be added in the future to support more settings).
 - All kongs' Cranky upgrades, Funky guns, Candy instruments and blueprint count (up to 8).
 - Simian Slam moves
 - Homing and sniper Funky upgrades
 - Fairy camera
 - Nintendo and Rareware coin
-- Golden Banana count (up to 201)
+- Golden Banana count (up to 50, per standard DK64 ruleset)
 - Keys and Crowns available in each level
 
 # Instructions for use:
