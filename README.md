@@ -13,7 +13,7 @@ An EmoTracker pack for Donkey Kong 64 randomizer.
 # Instructions for use:
 1. Download EmoTracker at https://emotracker.net/
 2. Download Banana Tracker as a zip file.
-3. Locate your EmoTracker folder on your computer and open it.
+3. Locate your EmoTracker folder in your Documents folder.
 4. Extract the zip file and move the downloaded BananaTracker folder into the /EmoTracker/packs folder. 
 5. Open EmoTracker. Click the gear, then "Installed Packages." Banana Tracker will be located under "Other."
 
