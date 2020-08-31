@@ -21,6 +21,7 @@ An EmoTracker pack for Donkey Kong 64 randomizer.
 - Multiple selectable layouts for different kinds of randomizer settings
 - Banana medal tracking for long setting randomizer
 - Fairy tracking
+- Keep track of banana counts per level
 - Keep track of which kong fights which boss
 - Add numbers to the keys
 - Align certain images so they line up better
