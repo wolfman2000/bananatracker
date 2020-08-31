@@ -1,5 +1,5 @@
 # Banana Tracker
-An EmoTracker pack for Donkey Kong 64 randomizer. 
+An EmoTracker pack for Donkey Kong 64 randomizer. <br />
 <img src="https://raw.githubusercontent.com/2dos/bananatracker/master/bananatracker_example.PNG" />
 
 # Features
