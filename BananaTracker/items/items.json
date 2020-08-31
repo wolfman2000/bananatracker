@@ -1,0 +1,527 @@
+﻿[
+  {
+    "name": "Donkey Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk.png",
+    "codes": "donkeykong,dk"
+  },
+  {
+    "name": "Coconut Shooter",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_gun.png",
+    "codes": "coconutshooter,dkg"
+  },
+  {
+    "name": "Bongo Blast",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_inst.png",
+    "codes": "bongoblast,dki"
+  },
+  {
+    "name": "Baboon Blast",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pad.png",
+    "codes": "baboonblast,dk1"
+  },
+  {
+    "name": "Strong Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/barrel.png",
+    "codes": "strongkong,dk2"
+  },
+  {
+    "name": "Gorilla Grab",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_move.png",
+    "codes": "gorillagrab,dk3"
+  },
+  {
+    "name": "DK Blueprints",
+    "type": "consumable",
+    "img": "images/dk_bp.png",
+    "codes": "dkblueprints,dkb",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Diddy Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy.png",
+    "codes": "diddykong,di"
+  },
+  {
+    "name": "Peanut Popguns",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_gun.png",
+    "codes": "peanutpopguns,dig"
+  },
+  {
+    "name": "Guitar Gazump",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_inst.png",
+    "codes": "guitargazump,dii"
+  },
+  {
+    "name": "Chimpy Charge",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_move.png",
+    "codes": "chimpcharge,di1"
+  },
+  {
+    "name": "Rocketbarrel Boost",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/barrel.png",
+    "codes": "rocketbarrelboost,di2"
+  },
+  {
+    "name": "Simian Spring",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pad.png",
+    "codes": "simianspring,di3"
+  },
+  {
+    "name": "Diddy Blueprints",
+    "type": "consumable",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyblueprints,dib",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Lanky Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky.png",
+    "codes": "lankykong,la"
+  },
+  {
+    "name": "Grape Shooter",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_gun.png",
+    "codes": "grapeshooter,lag"
+  },
+  {
+    "name": "Trombone Tremor",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_inst.png",
+    "codes": "trombonetremor,lai"
+  },
+  {
+    "name": "OrangStand",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_move.png",
+    "codes": "orangstand,la1"
+  },
+  {
+    "name": "Baboon Balloon",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pad.png",
+    "codes": "baboonballoon,la2"
+  },
+  {
+    "name": "OrangStand Sprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/barrel.png",
+    "codes": "orangstandsprint,la3"
+  },
+  {
+    "name": "Lanky Blueprints",
+    "type": "consumable",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyblueprints,lab",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Tiny Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny.png",
+    "codes": "tinykong,ti"
+  },
+  {
+    "name": "Feather Bow",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_gun.png",
+    "codes": "featherbow,tig"
+  },
+  {
+    "name": "Saxophone Slam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_inst.png",
+    "codes": "saxophoneslam,tii"
+  },
+  {
+    "name": "Mini-Monkey",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/barrel.png",
+    "codes": "minimonkey,ti1"
+  },
+  {
+    "name": "Pony Tail Twirl",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_move.png",
+    "codes": "ponytailtwirl,ti2"
+  },
+  {
+    "name": "Monkeyport",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pad.png",
+    "codes": "monkeyport,ti3"
+  },
+  {
+    "name": "Tiny Blueprints",
+    "type": "consumable",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyblueprints,tib",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Chunky Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky.png",
+    "codes": "chunkykong,ch"
+  },
+  {
+    "name": "Pineapple Launcher",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_gun.png",
+    "codes": "pineapplelauncher,chg"
+  },
+  {
+    "name": "Trangle Trample",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_inst.png",
+    "codes": "trangletrample,chi"
+  },
+  {
+    "name": "Hunky Chunky",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/barrel.png",
+    "codes": "hunkychunky,ch1"
+  },
+  {
+    "name": "Primate Punch",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_move.png",
+    "codes": "primatepunch,ch2"
+  },
+  {
+    "name": "Gorilla Gone",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/pad.png",
+    "codes": "gorillagone,ch3"
+  },
+  {
+    "name": "Chunky Blueprints",
+    "type": "consumable",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyblueprints,chb",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Simian Slam",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/slam1.png",
+        "codes": "simianslam,ss"
+      },
+      {
+        "img": "images/slam2.png",
+        "codes": "supersimianslam,sss"
+      },
+      {
+        "img": "images/slam3.png",
+        "codes": "superdupersimianslam,sdss"
+      }
+    ]
+  },
+  {
+    "name": "Homing Ammo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/homing.png",
+    "codes": "homingammo,ha"
+  },
+  {
+    "name": "Sniper Scope",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sniper.png",
+    "codes": "sniperscope,sns"
+  },
+  {
+    "name": "Camera",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/film.gif",
+    "codes": "camera,cam"
+  },
+  {
+    "name": "N64 Coin",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/n64_coin.png",
+    "codes": "n64coin,n64"
+  },
+  {
+    "name": "Rareware Coin",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/rareware_coin.png",
+    "codes": "rarewarecoin,rare"
+  },
+  {
+    "name": "Golden Bananas",
+    "type": "consumable",
+    "img": "images/GB.gif",
+    "codes": "goldenbananas,gb",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 201
+  },
+
+
+  {
+    "name": "Japes Label",
+    "type": "static",
+    "img": "images/japes.png",
+    "codes": "japeslabel"
+  },
+  {
+    "name": "Japes Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "japeskey,key1"
+  },
+  {
+    "name": "Japes Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "japescrown,c1"
+  },
+
+
+  {
+    "name": "Aztec Label",
+    "type": "static",
+    "img": "images/aztec.png",
+    "codes": "azteclabel"
+  },
+  {
+    "name": "Aztec Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "azteckey,key2"
+  },
+  {
+    "name": "Aztec Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "azteccrown,c2"
+  },
+
+
+  {
+    "name": "Factory Label",
+    "type": "static",
+    "img": "images/factory.png",
+    "codes": "factorylabel"
+  },
+  {
+    "name": "Factory Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "factorykey,key3"
+  },
+  {
+    "name": "Factory Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "factorycrown,c3"
+  },
+
+
+  {
+    "name": "Galleon Label",
+    "type": "static",
+    "img": "images/galleon.png",
+    "codes": "galleonlabel"
+  },
+  {
+    "name": "Galleon Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "galleonkey,key4"
+  },
+  {
+    "name": "Galleon Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "galleoncrown,c4"
+  },
+
+
+  {
+    "name": "Forest Label",
+    "type": "static",
+    "img": "images/forest.png",
+    "codes": "forestlabel"
+  },
+  {
+    "name": "Forest Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "forestkey,key5"
+  },
+  {
+    "name": "Forest Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "forestcrown,c5"
+  },
+
+
+  {
+    "name": "Caves Label",
+    "type": "static",
+    "img": "images/caves.png",
+    "codes": "caveslabel"
+  },
+  {
+    "name": "Caves Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "caveskey,key6"
+  },
+  {
+    "name": "Caves Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "cavescrown,c6"
+  },
+
+
+  {
+    "name": "Castle Label",
+    "type": "static",
+    "img": "images/castle.png",
+    "codes": "castlelabel"
+  },
+  {
+    "name": "Castle Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "castlekey,key7"
+  },
+  {
+    "name": "Castle Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "castlecrown,c7"
+  },
+
+
+  {
+    "name": "Helm Label",
+    "type": "static",
+    "img": "images/helm.png",
+    "codes": "helmlabel"
+  },
+  {
+    "name": "Helm Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "helmkey,key8"
+  },
+  {
+    "name": "Helm Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "helmcrown,c8"
+  },
+
+
+  {
+    "name": "Isles Label",
+    "type": "static",
+    "img": "images/isles.png",
+    "codes": "isleslabel"
+  },
+  {
+    "name": "Isles Crown 1",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "islescrown1,c9"
+  },
+  {
+    "name": "Isles Crown 2",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "islescrown2,c10"
+  }
+]

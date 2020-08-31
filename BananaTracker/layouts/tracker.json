@@ -1,0 +1,120 @@
+﻿{
+  "shared_item_grid": {
+      "type": "array",
+      "orientation": "vertical",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_size": 36,
+              "item_margin": "0,0,7,5",
+              "rows": [
+                [ "dk", "dkg", "dki", "dk1", "dk2", "dk3", "dkb" ],
+                [ "di", "dig", "dii", "di1", "di2", "di3", "dib" ],
+                [ "la", "lag", "lai", "la1", "la2", "la3", "lab" ],
+                [ "ti", "tig", "tii", "ti1", "ti2", "ti3", "tib" ],
+                [ "ch", "chg", "chi", "ch1", "ch2", "ch3", "chb" ],
+                [ "simianslam", "homingammo", "sniperscope", "camera", "n64coin", "rarewarecoin", "gb" ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "4,3.5",
+              "item_height": 16,
+              "item_width": 58,
+               "rows": [
+                 [ "japeslabel" ],
+                 [ "azteclabel" ],
+                 [ "factorylabel" ]
+               ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "japeskey", "japescrown" ],
+                [ "azteckey", "azteccrown" ],
+                [ "factorykey", "factorycrown" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "4,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "galleonlabel" ],
+                [ "forestlabel" ],
+                [ "caveslabel" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "galleonkey", "galleoncrown" ],
+                [ "forestkey", "forestcrown" ],
+                [ "caveskey", "cavescrown" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "4,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "castlelabel" ],
+                [ "helmlabel" ],
+                [ "isleslabel" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "castlekey", "castlecrown" ],
+                [ "helmkey", "helmcrown" ],
+                [ "islescrown1", "islescrown2" ]
+              ]
+            }
+          ]
+        }
+      ]
+  },
+  "tracker_default": {
+    "type": "container",
+    "width": 314,
+    "background": "#212121",
+    "content": {
+      "type": "layout",
+      "dropshadow": true,
+      "margin": 10,
+      "key": "shared_item_grid"
+    }
+  }
+}
+
+
+

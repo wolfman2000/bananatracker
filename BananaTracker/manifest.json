@@ -1,0 +1,14 @@
+﻿{
+  "name": "Banana Tracker for DK64",
+  "game_name": "Donkey Kong 64 Randomizer",
+  "platform": "n64",
+  "package_version": "1.0.1.0",
+  "package_uid": "bananatracker_dk64",
+  "layout_engine_version": "1.0",
+  "author": "2dos",
+  "variants": {
+    "standard": {
+      "display_name": "Standard Randomizer"
+    }
+  }
+}
