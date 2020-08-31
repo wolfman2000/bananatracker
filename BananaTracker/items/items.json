@@ -304,27 +304,13 @@
     "codes": "camera,cam"
   },
   {
-    "name": "N64 Coin",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/n64_coin.png",
-    "codes": "n64coin,n64"
-  },
-  {
-    "name": "Rareware Coin",
-    "type": "toggle",
-    "loop": "true",
-    "img": "images/rareware_coin.png",
-    "codes": "rarewarecoin,rare"
-  },
-  {
     "name": "Golden Bananas",
     "type": "consumable",
     "img": "images/GB.gif",
     "codes": "goldenbananas,gb",
     "swap_actions": false,
 	  "initial_quantity": 0,
-    "max_quantity": 201
+    "max_quantity": 50
   },
 
 
