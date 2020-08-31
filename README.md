@@ -25,4 +25,5 @@ An EmoTracker pack for Donkey Kong 64 randomizer.
 - Keep track of which kong fights which boss
 - Add numbers to the keys
 - Align certain images so they line up better
+- Better images for the unique Cranky kong moves
 - Add kong faces to the pads and crystals (or change crystals to barrels with kong faces)
