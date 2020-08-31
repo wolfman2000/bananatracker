@@ -1,5 +1,6 @@
 # Banana Tracker
 An EmoTracker pack for Donkey Kong 64 randomizer. 
+<img src="https://raw.githubusercontent.com/2dos/bananatracker/master/bananatracker_example.PNG" />
 
 # Features
 - All kongs' Cranky upgrades, Funky guns, Candy instruments and blueprint count (up to 8).
