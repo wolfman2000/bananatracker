@@ -304,6 +304,33 @@
     "codes": "camera,cam"
   },
   {
+    "name": "Coins",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/n64rw_coin_rwbw.png",
+        "codes": "n64coin"
+      },
+      {
+        "img": "images/n64rw_coin_n64bw.png",
+        "codes": "rwcoin"
+      },
+      {
+        "img": "images/n64rw_coin.png",
+        "codes": "bothcoins"
+      }
+    ]
+  },
+  {
+    "name": "Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "bananamedals,bm",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 15
+  },
+  {
     "name": "Golden Bananas",
     "type": "consumable",
     "img": "images/GB.gif",

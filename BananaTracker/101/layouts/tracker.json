@@ -1,0 +1,1855 @@
+﻿{
+  "shared_item_grid": {
+      "type": "array",
+      "orientation": "vertical",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "4,16.5",
+              "item_height": 16,
+              "item_width": 52,
+               "rows": [
+                  [ "" ],
+                  [ "japeslabel" ],
+                  [ "azteclabel" ],
+                  [ "factorylabel" ],
+                  [ "galleonlabel" ],
+                  [ "forestlabel" ],
+                  [ "caveslabel" ],
+                  [ "castlelabel" ],
+                  [ "isleslabel" ],
+                  [ "helmlabel" ]
+               ]
+            },
+            {
+              "type": "array",
+              "orientation": "vertical",
+              "content": [
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 8,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 36,
+                      "rows": [
+                        [ "dk" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 8,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 36,
+                      "rows": [
+                        [ "di" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 36,
+                      "rows": [
+                        [ "la" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 8,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 36,
+                      "rows": [
+                        [ "ti" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 36,
+                      "rows": [
+                        [ "ch" ]
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb1" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp1" ],
+                            [ "dkbm1" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb1" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp1" ],
+                            [ "dibm1" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb1" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp1" ],
+                            [ "lbm1" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb1" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp1" ],
+                            [ "tbm1" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb1" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp1" ],
+                            [ "cbm1" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb2" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp2" ],
+                            [ "dkbm2" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb2" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp2" ],
+                            [ "dibm2" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb2" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp2" ],
+                            [ "lbm2" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb2" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp2" ],
+                            [ "tbm2" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb2" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp2" ],
+                            [ "cbm2" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb3" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp3" ],
+                            [ "dkbm3" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb3" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp3" ],
+                            [ "dibm3" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb3" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp3" ],
+                            [ "lbm3" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb3" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp3" ],
+                            [ "tbm3" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb3" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp3" ],
+                            [ "cbm3" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb4" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp4" ],
+                            [ "dkbm4" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb4" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp4" ],
+                            [ "dibm4" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb4" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp4" ],
+                            [ "lbm4" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb4" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp4" ],
+                            [ "tbm4" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb4" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp4" ],
+                            [ "cbm4" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb5" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp5" ],
+                            [ "dkbm5" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb5" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp5" ],
+                            [ "dibm5" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb5" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp5" ],
+                            [ "lbm5" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb5" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp5" ],
+                            [ "tbm5" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb5" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp5" ],
+                            [ "cbm5" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb6" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp6" ],
+                            [ "dkbm6" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb6" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp6" ],
+                            [ "dibm6" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb6" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp6" ],
+                            [ "lbm6" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb6" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp6" ],
+                            [ "tbm6" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "-,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb6" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp6" ],
+                            [ "cbm6" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb7" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp7" ],
+                            [ "dkbm7" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb7" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp7" ],
+                            [ "dibm7" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb7" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp7" ],
+                            [ "lbm7" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb7" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp7" ],
+                            [ "tbm7" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb7" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,1",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp7" ],
+                            [ "cbm7" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "dkgb8" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,10",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dkbp8" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "digb8" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,10",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "dibp8" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "lgb8" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,10",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "lbp8" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "tgb8" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,10",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "tbp8" ]
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 10,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,1",
+                      "item_height": 36,
+                      "item_width": 24,
+                      "rows": [
+                        [ "cgb8" ]
+                      ]
+                    },
+                    {
+                      "type": "array",
+                      "orientation": "vertical",
+                      "content": [
+                        {
+                          "type": "itemgrid",
+                          "h_alignment": "center",
+                          "item_margin": "-3,10",
+                          "item_height": 18,
+                          "item_width": 18,
+                          "rows": [
+                            [ "cbp8" ]
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "itemgrid",
+                  "h_alignment": "center",
+                  "item_margin": "0,0",
+                  "item_height": 0,
+                  "item_width": 0,
+                  "rows": [
+                    [ "" ]
+                  ]
+                },
+                {
+                  "type": "array",
+                  "orientation": "horizontal",
+                  "content": [
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 36,
+                      "item_width": 8,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 32,
+                      "rows": [
+                        [ "dkbm8" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 14,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 32,
+                      "rows": [
+                        [ "dibm8" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 14,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 32,
+                      "rows": [
+                        [ "lbm8" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 14,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 32,
+                      "rows": [
+                        [ "tbm8" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 14,
+                      "rows": [
+                        [ "" ]
+                      ]
+                    },
+                    {
+                      "type": "itemgrid",
+                      "h_alignment": "center",
+                      "item_margin": "0,5",
+                      "item_height": 32,
+                      "item_width": 32,
+                      "rows": [
+                        [ "cbm8" ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "8,4.5",
+              "item_height": 40,
+              "item_width": 28,
+               "rows": [
+                  [ "" ],
+                  [ "key1" ],
+                  [ "key2" ],
+                  [ "key3" ],
+                  [ "key4" ],
+                  [ "key5" ],
+                  [ "key6" ],
+                  [ "key7" ],
+                  [ "c9" ],
+                  [ "key8" ]
+               ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-4,4.5",
+              "item_height": 40,
+              "item_width": 28,
+               "rows": [
+                  [ "nc" ],
+                  [ "c1" ],
+                  [ "c2" ],
+                  [ "c3" ],
+                  [ "c4" ],
+                  [ "c5" ],
+                  [ "c6" ],
+                  [ "c7" ],
+                  [ "c10" ],
+                  [ "c8" ]
+               ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "12,4.5",
+              "item_height": 40,
+              "item_width": 28,
+               "rows": [
+                  [ "rc" ],
+                  [ "f1" ],
+                  [ "f2" ],
+                  [ "f3" ],
+                  [ "f4" ],
+                  [ "f5" ],
+                  [ "f6" ],
+                  [ "f7" ],
+                  [ "f9" ],
+                  [ "f8" ]
+               ]
+            }
+          ]
+        }
+      ]
+  },
+  "tracker_default": {
+    "type": "container",
+    "width": 410,
+    "background": "#212121",
+    "content": {
+      "type": "layout",
+      "dropshadow": true,
+      "margin": 10,
+      "key": "shared_item_grid"
+    }
+  }
+}
+
+
+

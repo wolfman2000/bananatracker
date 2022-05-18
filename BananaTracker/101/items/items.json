@@ -1,0 +1,1358 @@
+﻿[
+  {
+    "name": "Donkey Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk.png",
+    "codes": "donkeykong,dk"
+  },
+  {
+    "name": "DK Blueprints",
+    "type": "consumable",
+    "img": "images/dk_bp.png",
+    "codes": "dkblueprints,dkb",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Diddy Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy.png",
+    "codes": "diddykong,di"
+  },
+  {
+    "name": "Diddy Blueprints",
+    "type": "consumable",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyblueprints,dib",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Lanky Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky.png",
+    "codes": "lankykong,la"
+  },
+  {
+    "name": "Lanky Blueprints",
+    "type": "consumable",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyblueprints,lab",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Tiny Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny.png",
+    "codes": "tinykong,ti"
+  },
+  {
+    "name": "Tiny Blueprints",
+    "type": "consumable",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyblueprints,tib",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Chunky Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky.png",
+    "codes": "chunkykong,ch"
+  },
+  {
+    "name": "Chunky Blueprints",
+    "type": "consumable",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyblueprints,chb",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+  {
+    "name": "Nintendo Coin",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/n64_coin.png",
+    "codes": "nintendocoin,nc"
+  },
+  {
+    "name": "Rareware Coin",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/rareware_coin.png",
+    "codes": "rarewarecoin,rc"
+  },
+
+
+  {
+    "name": "Japes Label",
+    "type": "static",
+    "img": "images/japes.png",
+    "codes": "japeslabel"
+  },
+  {
+    "name": "DK Japes GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas1,dkgb1",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Japes Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkjapesblueprint,dkbp1"
+  },
+  {
+    "name": "DK Japes Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkjapesbananamedals,dkbm1"
+  },
+  {
+    "name": "Diddy Japes GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas1,digb1",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Japes Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyjapesblueprint,dibp1"
+  },
+  {
+    "name": "Diddy Japes Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddyjapesbananamedals,dibm1"
+  },
+  {
+    "name": "Lanky Japes GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas1,lgb1",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Japes Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyjapesblueprint,lbp1"
+  },
+  {
+    "name": "Lanky Japes Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankyjapesbananamedals,lbm1"
+  },
+  {
+    "name": "Tiny Japes GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas1,tgb1",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Japes Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyjapesblueprint,tbp1"
+  },
+  {
+    "name": "Tiny Japes Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinyjapesbananamedals,tbm1"
+  },
+  {
+    "name": "Chunky Japes GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas1,cgb1",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Japes Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyjapesblueprint,cbp1"
+  },
+  {
+    "name": "Chunky Japes Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkyjapesbananamedals,cbm1"
+  },
+  {
+    "name": "Japes Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "japeskey,key1"
+  },
+  {
+    "name": "Japes Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "japescrown,c1"
+  },
+  {
+    "name": "Japes Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "japesfairies,f1",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Aztec Label",
+    "type": "static",
+    "img": "images/aztec.png",
+    "codes": "azteclabel"
+  },
+  {
+    "name": "DK Aztec GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas2,dkgb2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Aztec Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkaztecblueprint,dkbp2"
+  },
+  {
+    "name": "DK Aztec Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkaztecbananamedals,dkbm2"
+  },
+  {
+    "name": "Diddy Aztec GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas2,digb2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Aztec Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyaztecblueprint,dibp2"
+  },
+  {
+    "name": "Diddy Aztec Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddyaztecbananamedals,dibm2"
+  },
+  {
+    "name": "Lanky Aztec GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas2,lgb2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Aztec Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyaztecblueprint,lbp2"
+  },
+  {
+    "name": "Lanky Aztec Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankyaztecbananamedals,lbm2"
+  },
+  {
+    "name": "Tiny Aztec GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas2,tgb2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Aztec Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyaztecblueprint,tbp2"
+  },
+  {
+    "name": "Lanky Aztec Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinyyaztecbananamedals,tbm2"
+  },
+  {
+    "name": "Chunky Aztec GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas2,cgb2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Aztec Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyaztecblueprint,cbp2"
+  },
+  {
+    "name": "Chunky Aztec Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkyaztecbananamedals,cbm2"
+  },
+  {
+    "name": "Aztec Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "azteckey,key2"
+  },
+  {
+    "name": "Aztec Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "aztecbananamedals,bm2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Aztec Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "azteccrown,c2"
+  },
+  {
+    "name": "Aztec Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "aztecfairies,f2",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Factory Label",
+    "type": "static",
+    "img": "images/factory.png",
+    "codes": "factorylabel"
+  },
+  {
+    "name": "DK Factory GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas3,dkgb3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Factory Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkfactoryblueprint,dkbp3"
+  },
+  {
+    "name": "DK Factory Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkfactorybananamedals,dkbm3"
+  },
+  {
+    "name": "Diddy Factory GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas3,digb3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Factory Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyfactoryblueprint,dibp3"
+  },
+  {
+    "name": "Diddy Factory Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddyfactorybananamedals,dibm3"
+  },
+  {
+    "name": "Lanky Factory GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas3,lgb3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Factory Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyfactoryblueprint,lbp3"
+  },
+  {
+    "name": "Lanky Factory Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankyfactorybananamedals,lbm3"
+  },
+  {
+    "name": "Tiny Factory GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas3,tgb3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Factory Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyfactoryblueprint,tbp3"
+  },
+  {
+    "name": "Tiny Factory Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinyfactorybananamedals,tbm3"
+  },
+  {
+    "name": "Chunky Factory GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas3,cgb3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Factory Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyfactoryblueprint,cbp3"
+  },
+  {
+    "name": "DK Factory Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkyfactorybananamedals,cbm3"
+  },
+  {
+    "name": "Factory Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "factorykey,key3"
+  },
+  {
+    "name": "Factory Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "factorybananamedals,bm3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Factory Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "factorycrown,c3"
+  },
+  {
+    "name": "Factory Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "factoryfairies,f3",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Galleon Label",
+    "type": "static",
+    "img": "images/galleon.png",
+    "codes": "galleonlabel"
+  },
+  {
+    "name": "DK Galleon GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas4,dkgb4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Galleon Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkgalleonblueprint,dkbp4"
+  },
+  {
+    "name": "DK Galleon Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkgalleonbananamedals,dkbm4"
+  },
+  {
+    "name": "Diddy Galleon GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas4,digb4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Galleon Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddygalleonblueprint,dibp4"
+  },
+  {
+    "name": "Diddy Galleon Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddygalleonbananamedals,dibm4"
+  },
+  {
+    "name": "Lanky Galleon GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas4,lgb4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Galleon Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankygalleonblueprint,lbp4"
+  },
+  {
+    "name": "Lanky Galleon Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankygalleonbananamedals,lbm4"
+  },
+  {
+    "name": "Tiny Galleon GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas4,tgb4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Galleon Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinygalleonblueprint,tbp4"
+  },
+  {
+    "name": "Tiny Galleon Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinygalleonbananamedals,tbm4"
+  },
+  {
+    "name": "Chunky Galleon GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas4,cgb4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Galleon Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkygalleonblueprint,cbp4"
+  },
+  {
+    "name": "Chunky Galleon Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkygalleonbananamedals,cbm4"
+  },
+  {
+    "name": "Galleon Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "galleonkey,key4"
+  },
+  {
+    "name": "Galleon Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "galleonbananamedals,bm4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Galleon Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "galleoncrown,c4"
+  },
+  {
+    "name": "Galleon Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "galleonfairies,f4",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Forest Label",
+    "type": "static",
+    "img": "images/forest.png",
+    "codes": "forestlabel"
+  },
+  {
+    "name": "DK Forest GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas5,dkgb5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Forest Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkforestblueprint,dkbp5"
+  },
+  {
+    "name": "DK Forest Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkforestbananamedals,dkbm5"
+  },
+  {
+    "name": "Diddy Forest GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas5,digb5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Forest Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyforestblueprint,dibp5"
+  },
+  {
+    "name": "Diddy Forest Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddyforestbananamedals,dibm5"
+  },
+  {
+    "name": "Lanky Forest GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas5,lgb5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Forest Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyforestblueprint,lbp5"
+  },
+  {
+    "name": "Lanky Forest Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankyforestbananamedals,lbm5"
+  },
+  {
+    "name": "Tiny Forest GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas5,tgb5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Forest Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyforestblueprint,tbp5"
+  },
+  {
+    "name": "Tiny Forest Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinyforestbananamedals,tbm5"
+  },
+  {
+    "name": "Chunky Forest GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas5,cgb5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Forest Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyforestblueprint,cbp5"
+  },
+  {
+    "name": "Chunky Forest Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkyforestbananamedals,cbm5"
+  },
+  {
+    "name": "Forest Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "forestkey,key5"
+  },
+  {
+    "name": "Forest Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "forestbananamedals,bm5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Forest Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "forestcrown,c5"
+  },
+  {
+    "name": "Forest Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "forestfairies,f5",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Caves Label",
+    "type": "static",
+    "img": "images/caves.png",
+    "codes": "caveslabel"
+  },
+  {
+    "name": "DK Caves GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas6,dkgb6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Caves Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkcavesblueprint,dkbp6"
+  },
+  {
+    "name": "DK Caves Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkcavesbananamedals,dkbm6"
+  },
+  {
+    "name": "Diddy Caves GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas6,digb6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Caves Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddycavesblueprint,dibp6"
+  },
+  {
+    "name": "Diddy Caves Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddycavesbananamedals,dibm6"
+  },
+  {
+    "name": "Lanky Caves GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas6,lgb6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Caves Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankycavesblueprint,lbp6"
+  },
+  {
+    "name": "Lanky Caves Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankycavesbananamedals,lbm6"
+  },
+  {
+    "name": "Tiny Caves GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas6,tgb6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Caves Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinycavesblueprint,tbp6"
+  },
+  {
+    "name": "Tiny Caves Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinycavesbananamedals,tbm6"
+  },
+  {
+    "name": "Chunky Caves GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas6,cgb6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Caves Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkycavesblueprint,cbp6"
+  },
+  {
+    "name": "Chunky Caves Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkycavesbananamedals,cbm6"
+  },
+  {
+    "name": "Caves Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "caveskey,key6"
+  },
+  {
+    "name": "Caves Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "cavesbananamedals,bm6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Caves Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "cavescrown,c6"
+  },
+  {
+    "name": "Caves Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "cavesfairies,f6",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Castle Label",
+    "type": "static",
+    "img": "images/castle.png",
+    "codes": "castlelabel"
+  },
+  {
+    "name": "DK Castle GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas7,dkgb7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Castle Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkcastleblueprint,dkbp7"
+  },
+  {
+    "name": "DK Castle Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkcastlebananamedals,dkbm7"
+  },
+  {
+    "name": "Diddy Castle GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas7,digb7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Castle Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddycastleblueprint,dibp7"
+  },
+  {
+    "name": "Diddy Castle Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddycastlebananamedals,dibm7"
+  },
+  {
+    "name": "Lanky Castle GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas7,lgb7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Castle Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankycastleblueprint,lbp7"
+  },
+  {
+    "name": "Lanky Castle Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankycastlebananamedals,lbm7"
+  },
+  {
+    "name": "Tiny Castle GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas7,tgb7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Tiny Castle Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinycastleblueprint,tbp7"
+  },
+  {
+    "name": "Tiny Castle Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinycastlebananamedals,tbm7"
+  },
+  {
+    "name": "Chunky Castle GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas7,cgb7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Castle Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkycastleblueprint,cbp7"
+  },
+  {
+    "name": "Chunky Castle Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkycastlebananamedals,cbm7"
+  },
+  {
+    "name": "Castle Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "castlekey,key7"
+  },
+  {
+    "name": "Castle Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "castlebananamedals,bm7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Castle Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "castlecrown,c7"
+  },
+  {
+    "name": "Castle Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "castlefairies,f7",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Helm Label",
+    "type": "static",
+    "img": "images/helm.png",
+    "codes": "helmlabel"
+  },
+  {
+    "name": "Helm Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "helmkey,key8"
+  },
+  {
+    "name": "DK Helm Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "dkhelmbananamedal,dkbm8"
+  },
+  {
+    "name": "Diddy Helm Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "diddyhelmbananamedal,dibm8"
+  },
+  {
+    "name": "Lanky Helm Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "lankyhelmbananamedal,lbm8"
+  },
+  {
+    "name": "Tiny Helm Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "tinyhelmbananamedal,tbm8"
+  },
+  {
+    "name": "Chunky Helm Banana Medal",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/bananamedal.gif",
+    "codes": "chunkyhelmbananamedal,cbm8"
+  },
+  {
+    "name": "Helm Crown",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "helmcrown,c8"
+  },
+  {
+    "name": "Helm Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "helmfairies,f8",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 2
+  },
+
+
+  {
+    "name": "Isles Label",
+    "type": "static",
+    "img": "images/isles.png",
+    "codes": "isleslabel"
+  },
+  {
+    "name": "DK Isles GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "dkgoldenbananas8,dkgb8",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "DK Isles Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_bp.png",
+    "codes": "dkislesblueprint,dkbp8"
+  },
+  {
+    "name": "Diddy Isles GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "diddygoldenbananas8,digb8",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Diddy Isles Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyislesblueprint,dibp8"
+  },
+  {
+    "name": "Lanky Isles GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "lankygoldenbananas8,lgb8",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Lanky Isles Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyislesblueprint,lbp8"
+  },
+  {
+    "name": "Tiny Isles GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "tinygoldenbananas8,tgb8",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 6
+  },
+  {
+    "name": "Tiny Isles Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyislesblueprint,tbp8"
+  },
+  {
+    "name": "Chunky Isles GB",
+    "type": "consumable",
+    "img": "images/GBcompact.png",
+    "codes": "chunkygoldenbananas8,cgb8",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 5
+  },
+  {
+    "name": "Chunky Isles Blueprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyislesblueprint,cbp8"
+  },
+  {
+    "name": "Isles Crown 1",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "islescrown1,c9"
+  },
+  {
+    "name": "Isles Crown 2",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/crown.png",
+    "codes": "islescrown2,c10"
+  },
+  {
+    "name": "Isles Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "islesfairies,f9",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 4
+  }
+]

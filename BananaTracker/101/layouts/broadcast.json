@@ -15,12 +15,12 @@
             "item_size": 36,
             "item_margin": "0,0,7,5",
             "rows": [
-              [ "dk", "dkg", "dki", "dkm", "dkb", "dkp", "dkbp" ],
-              [ "di", "dig", "dii", "dim", "dib", "dip", "dibp" ],
-              [ "la", "lag", "lai", "lam", "lab", "lap", "labp" ],
-              [ "ti", "tig", "tii", "tim", "tib", "tip", "tibp" ],
-              [ "ch", "chg", "chi", "chm", "chb", "chp", "chbp" ],
-              [ "" , "ss", "ha", "sns", "cam", "gb", "" ]
+              [ "dk", "dkg", "dki", "dk1", "dk2", "dk3", "dkb" ],
+              [ "di", "dig", "dii", "di1", "di2", "di3", "dib" ],
+              [ "la", "lag", "lai", "la1", "la2", "la3", "lab" ],
+              [ "ti", "tig", "tii", "ti1", "ti2", "ti3", "tib" ],
+              [ "ch", "chg", "chi", "ch1", "ch2", "ch3", "chb" ],
+              [ "" , "simianslam", "homingammo", "sniperscope", "camera", "gb", "" ]
             ]
           }
         ]
