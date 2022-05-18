@@ -9,7 +9,7 @@ This tracker follows the "standard" DK64 randomizer ruleset (with more layouts t
 - Homing and sniper Funky upgrades
 - Fairy camera
 - Nintendo and Rareware coin
-- Golden Banana count (up to 50, per standard DK64 randomizer ruleset)
+- Golden Banana count
 - Keys and Crowns available in each level
 
 # Instructions for use:
@@ -20,12 +20,7 @@ This tracker follows the "standard" DK64 randomizer ruleset (with more layouts t
 5. Open EmoTracker. Click the gear, then "Installed Packages." Banana Tracker will be located under "Other."
 
 # To-Do List
-- Multiple selectable layouts for different kinds of randomizer settings
-- Banana medal tracking for long setting randomizer
 - Fairy tracking
 - Keep track of banana counts per level
 - Keep track of which kong fights which boss
 - Add numbers to the keys
-- Align certain images so they line up better
-- Better images for the unique Cranky kong moves
-- Add kong faces to the pads and crystals (or change crystals to barrels with kong faces)
