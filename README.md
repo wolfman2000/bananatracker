@@ -24,3 +24,4 @@ This tracker follows the "standard" DK64 randomizer ruleset (with more layouts t
 - Keep track of banana counts per level
 - Keep track of which kong fights which boss
 - Add numbers to the keys
+- Broadcast view of the 101% tracker is broken
