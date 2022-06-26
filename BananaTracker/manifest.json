@@ -10,7 +10,7 @@
     "standard": {
       "display_name": "Standard Randomizer"
     },
-	"levelorder": {
+    "levelorder": {
       "display_name": "Level Order Randomizer"
     },
     "long": {
