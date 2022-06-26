@@ -1,0 +1,108 @@
+﻿{
+  "tracker_broadcast": {
+    "background": "#212121",
+    "type": "array",
+    "h_alignment": "center",
+    "margin": "10",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_size": 36,
+            "item_margin": "0,0,7,5",
+            "rows": [
+              [ "dk", "dkg", "dki", "dkm", "dkb", "dkp", "dkbp" ],
+              [ "di", "dig", "dii", "dim", "dib", "dip", "dibp" ],
+              [ "la", "lag", "lai", "lam", "lab", "lap", "labp" ],
+              [ "ti", "tig", "tii", "tim", "tib", "tip", "tibp" ],
+              [ "ch", "chg", "chi", "chm", "chb", "chp", "chbp" ],
+              [ "" , "ss", "ha", "sns", "cam", "gb", "" ]
+            ]
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "4,3.5",
+            "item_height": 16,
+            "item_width": 58,
+             "rows": [
+               [ "level1" ],
+               [ "level2" ],
+               [ "level3" ]
+             ]
+          },
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "-2,1",
+            "item_height": 20,
+            "item_width": 20,
+            "rows": [
+              [ "k1", "c1" ],
+              [ "k2", "c2" ],
+              [ "k3", "c3" ]
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "4,3.5",
+            "item_height": 16,
+            "item_width": 58,
+            "rows": [
+              [ "level4" ],
+              [ "level5" ],
+              [ "level6" ]
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "-2,1",
+            "item_height": 20,
+            "item_width": 20,
+            "rows": [
+              [ "k4", "c4" ],
+              [ "k5", "c5" ],
+              [ "k6", "c6" ]
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "4,3.5",
+            "item_height": 16,
+            "item_width": 58,
+            "rows": [
+              [ "level7" ],
+              [ "level8" ],
+              [ "isleslabel" ]
+            ]
+          },
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "-2,1",
+            "item_height": 20,
+            "item_width": 20,
+            "rows": [
+              [ "k7", "c7" ],
+              [ "k8", "c8" ],
+              [ "islescrown1", "islescrown2" ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
