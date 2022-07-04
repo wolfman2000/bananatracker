@@ -267,6 +267,7 @@
   {
     "name": "Simian Slam",
     "type": "progressive",
+	"allow_disabled": false,
     "stages": [
       {
         "img": "images/slam1.png",
