@@ -66,7 +66,7 @@
             {
               "type": "itemgrid",
               "h_alignment": "left",
-              "item_margin": "-4,3.5",
+              "item_margin": "-2,3.5",
               "item_height": 16,
               "item_width": 58,
               "rows": [

@@ -25,84 +25,94 @@
           }
         ]
       },
-      {
-        "type": "array",
-        "orientation": "horizontal",
-        "content": [
-          {
-            "type": "itemgrid",
-            "h_alignment": "center",
-            "item_margin": "4,3.5",
-            "item_height": 16,
-            "item_width": 58,
-             "rows": [
-               [ "level1" ],
-               [ "level2" ],
-               [ "level3" ]
-             ]
-          },
-          {
-            "type": "itemgrid",
-            "h_alignment": "center",
-            "item_margin": "-2,1",
-            "item_height": 20,
-            "item_width": 20,
-            "rows": [
-              [ "k1", "c1" ],
-              [ "k2", "c2" ],
-              [ "k3", "c3" ]
-            ]
-          },
-          {
-            "type": "itemgrid",
-            "h_alignment": "center",
-            "item_margin": "4,3.5",
-            "item_height": 16,
-            "item_width": 58,
-            "rows": [
-              [ "level4" ],
-              [ "level5" ],
-              [ "level6" ]
-            ]
-          },
-          {
-            "type": "itemgrid",
-            "h_alignment": "center",
-            "item_margin": "-2,1",
-            "item_height": 20,
-            "item_width": 20,
-            "rows": [
-              [ "k4", "c4" ],
-              [ "k5", "c5" ],
-              [ "k6", "c6" ]
-            ]
-          },
-          {
-            "type": "itemgrid",
-            "h_alignment": "center",
-            "item_margin": "4,3.5",
-            "item_height": 16,
-            "item_width": 58,
-            "rows": [
-              [ "level7" ],
-              [ "level8" ],
-              [ "isleslabel" ]
-            ]
-          },
-          {
-            "type": "itemgrid",
-            "h_alignment": "center",
-            "item_margin": "-2,1",
-            "item_height": 20,
-            "item_width": 20,
-            "rows": [
-              [ "k7", "c7" ],
-              [ "k8", "c8" ],
-              [ "islescrown1", "islescrown2" ]
-            ]
-          }
-        ]
-      }
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "right",
+              "item_margin": "0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "l1" ],
+                [ "l2" ],
+                [ "l3" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "item_margin": "-2,3.5",
+              "item_height": 16,
+              "item_width": 58,
+               "rows": [
+                 [ "level1" ],
+                 [ "level2" ],
+                 [ "level3" ]
+               ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k1", "l4" ],
+                [ "k2", "l5" ],
+                [ "k3", "l6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "item_margin": "-2,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "level4" ],
+                [ "level5" ],
+                [ "level6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k4", "l7" ],
+                [ "k5", "l8" ],
+                [ "k6", "l9" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-4,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "level7" ],
+                [ "level8" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "6,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k7" ],
+                [ "k8" ]
+              ]
+            }
+          ]
+        }
     ]
   }
 }
