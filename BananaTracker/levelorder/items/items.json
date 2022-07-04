@@ -267,6 +267,7 @@
   {
     "name": "Simian Slam",
     "type": "progressive",
+	"allow_disabled": false,
     "stages": [
       {
         "img": "images/slam1.png",
@@ -321,10 +322,15 @@
   {
     "name": "Level 1",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/japes.png",
+        "img": "images/unknown.png",
         "codes": "level1"
+      },
+      {
+        "img": "images/japes.png",
       },
       {
         "img": "images/aztec.png"
@@ -369,10 +375,18 @@
   {
     "name": "Level 2",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/aztec.png",
-		"codes": "level2"
+        "img": "images/unknown.png",
+        "codes": "level2"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
       },
       {
         "img": "images/factory.png"
@@ -388,9 +402,6 @@
       },
       {
         "img": "images/castle.png"
-      },
-	  {
-        "img": "images/japes.png"
       }
     ]
   },
@@ -417,10 +428,21 @@
   {
     "name": "Level 3",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/factory.png",
-		"codes": "level3"
+        "img": "images/unknown.png",
+        "codes": "level3"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
       },
       {
         "img": "images/galleon.png"
@@ -433,12 +455,6 @@
       },
       {
         "img": "images/castle.png"
-      },
-	  {
-        "img": "images/japes.png"
-      },
-	  {
-        "img": "images/aztec.png"
       }
     ]
   },
@@ -465,10 +481,24 @@
   {
     "name": "Level 4",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/galleon.png",
-		"codes": "level4"
+        "img": "images/unknown.png",
+        "codes": "level4"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
       },
       {
         "img": "images/forest.png"
@@ -478,15 +508,6 @@
       },
       {
         "img": "images/castle.png"
-      },
-	  {
-        "img": "images/japes.png"
-      },
-	  {
-        "img": "images/aztec.png"
-      },
-	  {
-        "img": "images/factory.png",
       }
     ]
   },
@@ -513,28 +534,33 @@
   {
     "name": "Level 5",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/forest.png",
-		"codes": "level5"
+        "img": "images/unknown.png",
+        "codes": "level5"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
       },
       {
         "img": "images/caves.png"
       },
       {
         "img": "images/castle.png"
-      },
-	  {
-        "img": "images/japes.png"
-      },
-	  {
-        "img": "images/aztec.png"
-      },
-	  {
-        "img": "images/factory.png",
-      },
-	  {
-        "img": "images/galleon.png"
       }
     ]
   },
@@ -561,28 +587,33 @@
   {
     "name": "Level 6",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/caves.png",
-		"codes": "level6"
+        "img": "images/unknown.png",
+        "codes": "level6"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
       },
       {
         "img": "images/castle.png"
-      },
-	  {
-        "img": "images/japes.png"
-      },
-	  {
-        "img": "images/aztec.png"
-      },
-	  {
-        "img": "images/factory.png",
-      },
-	  {
-        "img": "images/galleon.png"
-      },
-	  {
-        "img": "images/forest.png"
       }
     ]
   },
@@ -609,28 +640,33 @@
   {
     "name": "Level 7",
     "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
     "stages": [
       {
-        "img": "images/castle.png",
-		"codes": "level7"
+        "img": "images/unknown.png",
+        "codes": "level7"
       },
-	  {
-        "img": "images/japes.png"
+      {
+        "img": "images/japes.png",
       },
-	  {
+      {
         "img": "images/aztec.png"
       },
-	  {
-        "img": "images/factory.png",
+      {
+        "img": "images/factory.png"
       },
-	  {
+      {
         "img": "images/galleon.png"
       },
-	  {
+      {
         "img": "images/forest.png"
       },
-	  {
+      {
         "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
       }
     ]
   },
