@@ -1,9 +1,11 @@
 # Banana Tracker
-An EmoTracker pack for the [Donkey Kong 64 randomizer](https://github.com/theballaam96/dk64-lz-randomizer). <br />
-<img src="https://raw.githubusercontent.com/2dos/bananatracker/master/bananatracker_example.PNG" />
+- An [EmoTracker](https://emotracker.net/) pack for the [Donkey Kong 64 randomizer](https://github.com/2dos/dk64-randomizer) but can also be used for vanilla Donkey Kong 64 as well.
+- Current Version: **Version 1.2.1** (July 3 2022)
+<img src="https://raw.githubusercontent.com/2dos/bananatracker/master/bananatracker_example.PNG">
 
 # Features
-This tracker follows the "standard" DK64 randomizer ruleset (with more layouts to be added in the future to support more settings).
+This tracker features tracking for various DK64 Randomizer settings as well as 101% playthroughs.
+### Standard, Level Order and Long presets for DK64 randomizer
 - All kongs' Cranky upgrades, Funky guns, Candy instruments and blueprint count (up to 8).
 - Simian Slam moves
 - Homing and sniper Funky upgrades
@@ -11,17 +13,13 @@ This tracker follows the "standard" DK64 randomizer ruleset (with more layouts t
 - Nintendo and Rareware coin
 - Golden Banana count
 - Keys and Crowns available in each level
+### 101% playthrough preset
+- Lists only items that count towards the 101% counter (plus Blueprints)
 
 # Instructions for use:
 1. Download EmoTracker at https://emotracker.net/
 2. Download Banana Tracker as a zip file.
-3. Locate your EmoTracker folder in your Documents folder.
-4. Extract the zip file and move the downloaded BananaTracker folder into the /EmoTracker/packs folder. 
+3. Locate your EmoTracker folder in file explorer (likely in your Documents folder).
+4. Extract the Banana Tracker zip file. Open the unzipped folder and move the `BananaTracker` folder into the `\EmoTracker\packs` folder. 
+   - Note: Make sure you don't drag the entire extracted folder into the packs folder. The location should look like this: `\Emotracker\packs\BananaTracker` 
 5. Open EmoTracker. Click the gear, then "Installed Packages." Banana Tracker will be located under "Other."
-
-# To-Do List
-- Fairy tracking
-- Keep track of banana counts per level
-- Keep track of which kong fights which boss
-- Add numbers to the keys
-- Broadcast view of the 101% tracker is broken
