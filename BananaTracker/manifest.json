@@ -5,7 +5,7 @@
   "package_version": "1.2.2",
   "package_uid": "bananatracker_dk64",
   "layout_engine_version": "1.0",
-  "author": "2dos",
+  "author": "2dos, OnlySpaghettiCode",
   "variants": {
     "standard": {
       "display_name": "Standard Randomizer"
@@ -13,6 +13,9 @@
 	"levelorder": {
       "display_name": "Level Order Randomizer Race"
     },
+  "levelordershops": {
+      "display_name": "Level Order Randomizer Race w/ Shops"
+  },
     "long": {
       "display_name": "Long Randomizer"
     },
