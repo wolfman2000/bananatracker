@@ -737,4 +737,3238 @@
     "codes": "islescrown2,c10"
   }
   
+ 
+  {
+    "name": "Donkey_Japes_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_japes_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_japes_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_japes_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_japes_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_japes_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_japes_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Japes_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_japes_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_japes_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_japes_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_japes_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_japes_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_japes_6"
+      }
+    ]
+  },
+
+  {
+    "name": "Donkey_Aztec_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_aztec_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_aztec_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_aztec_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_aztec_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_aztec_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Aztec_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_aztec_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_aztec_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_aztec_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_aztec_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_aztec_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Aztec_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_cdk_aztec_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_cdk_aztec_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_cdk_aztec_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_cdk_aztec_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes":"donkey_cdk_aztec_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Factory_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_factory_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_factory_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_factory_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_factory_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_factory_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Factory_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_factory_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_factory_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_factory_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_factory_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_factory_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Factory_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_cdk_factory_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_cdk_factory_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_cdk_factory_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_cdk_factory_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes":"donkey_cdk_factory_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_cdk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Galleon_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_galleon_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_galleon_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_galleon_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_galleon_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_galleon_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Galleon_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_galleon_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_galleon_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_galleon_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_galleon_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_galleon_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Galleon_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_cdk_galleon_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_cdk_galleon_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_cdk_galleon_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_cdk_galleon_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes":"donkey_cdk_galleon_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_cdk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Forest_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_forest_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_forest_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_forest_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_forest_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_forest_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Forest_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_forest_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_forest_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_forest_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_forest_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_forest_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Caves_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_caves_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_caves_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_caves_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_caves_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_caves_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Caves_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_caves_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_caves_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_caves_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_caves_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_caves_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Caves_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_cdk_caves_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_cdk_caves_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_cdk_caves_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_cdk_caves_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes":"donkey_cdk_caves_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Castle_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_fnk_castle_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_fnk_castle_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_fnk_castle_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_fnk_castle_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_fnk_castle_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_fnk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Castle_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_castle_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_castle_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_castle_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_castle_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_castle_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Castle_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_cdk_castle_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_cdk_castle_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_cdk_castle_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_cdk_castle_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes":"donkey_cdk_castle_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Donkey_Isles_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/dk.png",
+        "codes": "donkey_crk_isles_1"
+      },
+      {
+        "img": "images/dk_gun.png",
+        "codes": "donkey_crk_isles_2"
+      },
+      {
+        "img": "images/dk_inst.png",
+        "codes": "donkey_crk_isles_3"
+      },
+      {
+        "img": "images/dk_move.png",
+        "codes": "donkey_crk_isles_4"
+      },
+      {
+        "img": "images/dkbarrel.png",
+        "codes": "donkey_crk_isles_5"
+      },
+      {
+        "img": "images/dkpad.png",
+        "codes": "donkey_crk_isles_6"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Diddy_Japes_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_japes_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_japes_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_japes_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_japes_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_japes_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_japes_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Japes_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_japes_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_japes_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_japes_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_japes_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_japes_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_japes_6"
+      }
+    ]
+  },
+
+  {
+    "name": "Diddy_Aztec_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_aztec_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_aztec_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_aztec_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_aztec_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_aztec_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Aztec_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_aztec_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_aztec_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_aztec_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_aztec_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_aztec_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Aztec_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_cdk_aztec_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_cdk_aztec_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_cdk_aztec_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_cdk_aztec_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes":"diddy_cdk_aztec_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Factory_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_factory_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_factory_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_factory_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_factory_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_factory_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Factory_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_factory_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_factory_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_factory_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_factory_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_factory_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Factory_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_cdk_factory_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_cdk_factory_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_cdk_factory_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_cdk_factory_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes":"diddy_cdk_factory_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_cdk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Galleon_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_galleon_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_galleon_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_galleon_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_galleon_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_galleon_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Galleon_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_galleon_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_galleon_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_galleon_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_galleon_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_galleon_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Galleon_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_cdk_galleon_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_cdk_galleon_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_cdk_galleon_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_cdk_galleon_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes":"diddy_cdk_galleon_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_cdk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Forest_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_forest_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_forest_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_forest_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_forest_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_forest_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Forest_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_forest_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_forest_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_forest_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_forest_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_forest_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Caves_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_caves_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_caves_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_caves_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_caves_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_caves_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Caves_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_caves_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_caves_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_caves_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_caves_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_caves_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Caves_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_cdk_caves_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_cdk_caves_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_cdk_caves_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_cdk_caves_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes":"diddy_cdk_caves_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Castle_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_fnk_castle_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_fnk_castle_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_fnk_castle_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_fnk_castle_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_fnk_castle_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_fnk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Castle_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_castle_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_castle_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_castle_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_castle_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_castle_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Castle_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_cdk_castle_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_cdk_castle_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_cdk_castle_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_cdk_castle_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes":"diddy_cdk_castle_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Diddy_Isles_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/diddy.png",
+        "codes": "diddy_crk_isles_1"
+      },
+      {
+        "img": "images/diddy_gun.png",
+        "codes": "diddy_crk_isles_2"
+      },
+      {
+        "img": "images/diddy_inst.png",
+        "codes": "diddy_crk_isles_3"
+      },
+      {
+        "img": "images/diddy_move.png",
+        "codes": "diddy_crk_isles_4"
+      },
+      {
+        "img": "images/diddybarrel.png",
+        "codes": "diddy_crk_isles_5"
+      },
+      {
+        "img": "images/diddypad.png",
+        "codes": "diddy_crk_isles_6"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+    "name": "Lanky_Japes_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_japes_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_japes_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_japes_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_japes_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_japes_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_japes_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Japes_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_japes_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_japes_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_japes_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_japes_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_japes_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_japes_6"
+      }
+    ]
+  },
+
+  {
+    "name": "Lanky_Aztec_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_aztec_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_aztec_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_aztec_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_aztec_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_aztec_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Aztec_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_aztec_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_aztec_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_aztec_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_aztec_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_aztec_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Aztec_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_cdk_aztec_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_cdk_aztec_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_cdk_aztec_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_cdk_aztec_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes":"lanky_cdk_aztec_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Factory_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_factory_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_factory_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_factory_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_factory_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_factory_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Factory_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_factory_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_factory_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_factory_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_factory_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_factory_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Factory_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_cdk_factory_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_cdk_factory_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_cdk_factory_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_cdk_factory_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes":"lanky_cdk_factory_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_cdk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Galleon_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_galleon_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_galleon_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_galleon_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_galleon_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_galleon_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Galleon_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_galleon_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_galleon_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_galleon_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_galleon_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_galleon_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Galleon_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_cdk_galleon_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_cdk_galleon_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_cdk_galleon_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_cdk_galleon_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes":"lanky_cdk_galleon_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_cdk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Forest_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_forest_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_forest_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_forest_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_forest_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_forest_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Forest_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_forest_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_forest_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_forest_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_forest_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_forest_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_forest_6"
+      }
+    ]
+  },
+ 
+  {
+    "name": "Lanky_Caves_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_caves_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_caves_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_caves_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_caves_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_caves_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Caves_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_caves_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_caves_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_caves_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_caves_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_caves_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Caves_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_cdk_caves_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_cdk_caves_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_cdk_caves_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_cdk_caves_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes":"lanky_cdk_caves_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Isles_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_isles_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_isles_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_isles_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_isles_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_isles_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_isles_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Castle_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_fnk_castle_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_fnk_castle_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_fnk_castle_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_fnk_castle_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_fnk_castle_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_fnk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Castle_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_crk_castle_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_crk_castle_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_crk_castle_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_crk_castle_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes": "lanky_crk_castle_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_crk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Lanky_Castle_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/lanky.png",
+        "codes": "lanky_cdk_castle_1"
+      },
+      {
+        "img": "images/lanky_gun.png",
+        "codes": "lanky_cdk_castle_2"
+      },
+      {
+        "img": "images/lanky_inst.png",
+        "codes": "lanky_cdk_castle_3"
+      },
+      {
+        "img": "images/lanky_move.png",
+        "codes": "lanky_cdk_castle_4"
+      },
+      {
+        "img": "images/lankybarrel.png",
+        "codes":"lanky_cdk_castle_5"
+      },
+      {
+        "img": "images/lankypad.png",
+        "codes": "lanky_cdk_aztec_6"
+      }
+    ]
+  },
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Tiny_Japes_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_japes_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_japes_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_japes_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_japes_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_japes_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_japes_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Japes_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_japes_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_japes_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_japes_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_japes_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_japes_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_japes_6"
+      }
+    ]
+  },
+
+  {
+    "name": "Tiny_Aztec_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_aztec_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_aztec_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_aztec_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_aztec_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_aztec_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Aztec_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_aztec_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_aztec_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_aztec_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_aztec_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_aztec_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Aztec_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_cdk_aztec_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_cdk_aztec_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_cdk_aztec_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_cdk_aztec_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes":"tiny_cdk_aztec_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Factory_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_factory_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_factory_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_factory_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_factory_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_factory_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Factory_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_factory_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_factory_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_factory_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_factory_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_factory_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Factory_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_cdk_factory_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_cdk_factory_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_cdk_factory_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_cdk_factory_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes":"tiny_cdk_factory_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_cdk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Galleon_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_galleon_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_galleon_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_galleon_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_galleon_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_galleon_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Galleon_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_galleon_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_galleon_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_galleon_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_galleon_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_galleon_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Galleon_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_cdk_galleon_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_cdk_galleon_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_cdk_galleon_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_cdk_galleon_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes":"tiny_cdk_galleon_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_cdk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Forest_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_forest_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_forest_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_forest_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_forest_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_forest_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Forest_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_forest_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_forest_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_forest_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_forest_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_forest_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Caves_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_caves_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_caves_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_caves_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_caves_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_caves_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Caves_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_caves_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_caves_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_caves_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_caves_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_caves_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Caves_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_cdk_caves_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_cdk_caves_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_cdk_caves_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_cdk_caves_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes":"tiny_cdk_caves_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Castle_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_fnk_castle_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_fnk_castle_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_fnk_castle_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_fnk_castle_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_fnk_castle_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_fnk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Castle_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_castle_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_castle_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_castle_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_castle_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_castle_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Castle_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_cdk_castle_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_cdk_castle_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_cdk_castle_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_cdk_castle_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes":"tiny_cdk_castle_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Tiny_Isles_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/tiny.png",
+        "codes": "tiny_crk_isles_1"
+      },
+      {
+        "img": "images/tiny_gun.png",
+        "codes": "tiny_crk_isles_2"
+      },
+      {
+        "img": "images/tiny_inst.png",
+        "codes": "tiny_crk_caves_3"
+      },
+      {
+        "img": "images/tiny_move.png",
+        "codes": "tiny_crk_isles_4"
+      },
+      {
+        "img": "images/tinybarrel.png",
+        "codes": "tiny_crk_isles_5"
+      },
+      {
+        "img": "images/tinypad.png",
+        "codes": "tiny_crk_isles_6"
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "name": "Chunky_Japes_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_japes_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_japes_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_japes_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_japes_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_japes_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_japes_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Japes_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_japes_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_japes_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_japes_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_japes_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_japes_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_japes_6"
+      }
+    ]
+  },
+
+  {
+    "name": "Chunky_Aztec_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_aztec_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_aztec_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_aztec_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_aztec_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_aztec_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Aztec_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_aztec_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_aztec_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_aztec_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_aztec_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_aztec_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Aztec_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_cdk_aztec_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_cdk_aztec_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_cdk_aztec_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_cdk_aztec_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes":"chunky_cdk_aztec_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Factory_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_factory_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_factory_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_factory_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_factory_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_factory_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Factory_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_factory_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_factory_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_factory_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_factory_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_factory_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Factory_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_cdk_factory_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_cdk_factory_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_cdk_factory_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_cdk_factory_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes":"chunky_cdk_factory_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_cdk_factory_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Galleon_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_galleon_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_galleon_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_galleon_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_galleon_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_galleon_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Galleon_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_galleon_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_galleon_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_galleon_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_galleon_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_galleon_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Galleon_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_cdk_galleon_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_cdk_galleon_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_cdk_galleon_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_cdk_galleon_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes":"chunky_cdk_galleon_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_cdk_galleon_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Forest_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_forest_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_forest_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_forest_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_forest_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_forest_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Forest_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_forest_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_forest_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_forest_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_forest_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_forest_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_forest_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Caves_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_caves_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_caves_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_caves_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_caves_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_caves_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Caves_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_caves_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_caves_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_caves_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_caves_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_caves_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_caves_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Caves_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_cdk_caves_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_cdk_caves_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_cdk_caves_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_cdk_caves_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes":"chunky_cdk_caves_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Castle_Funky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_fnk_castle_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_fnk_castle_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_fnk_castle_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_fnk_castle_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_fnk_castle_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_fnk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Castle_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_castle_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_castle_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_castle_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_castle_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_castle_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_castle_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Castle_Candy_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_cdk_castle_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_cdk_castle_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_cdk_castle_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_cdk_castle_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes":"chunky_cdk_castle_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_cdk_aztec_6"
+      }
+    ]
+  },
+  {
+    "name": "Chunky_Isles_Cranky_Shop",
+    "type": "progressive",
+    "loop": true,
+    "stages": [
+      {
+        "img": "images/chunky.png",
+        "codes": "chunky_crk_isles_1"
+      },
+      {
+        "img": "images/chunky_gun.png",
+        "codes": "chunky_crk_isles_2"
+      },
+      {
+        "img": "images/chunky_inst.png",
+        "codes": "chunky_crk_isles_3"
+      },
+      {
+        "img": "images/chunky_move.png",
+        "codes": "chunky_crk_isles_4"
+      },
+      {
+        "img": "images/chunkybarrel.png",
+        "codes": "chunky_crk_isles_5"
+      },
+      {
+        "img": "images/chunkypad.png",
+        "codes": "chunky_crk_isles_6"
+      }
+    ]
+  }
+
 ]
