@@ -5,7 +5,7 @@
 	"package_version": "1.2.4",
 	"package_uid": "bananatracker_dk64",
 	"layout_engine_version": "1.0",
-	"author": "2dos, JXJacob",
+	"author": "2dos, OnlySpaghettiCode, JXJacob",
 	"variants": {
 		"standard": {
 			"display_name": "Standard Randomizer"
