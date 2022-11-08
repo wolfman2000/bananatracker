@@ -1,0 +1,154 @@
+﻿{
+  "shared_item_grid": {
+      "type": "array",
+      "orientation": "vertical",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_size": 36,
+              "item_margin": "7,0,7,5",
+              "rows": [
+                [ "dk", "dkg", "dki", "dkm", "dkb", "dkp", "dkbp" ],
+                [ "di", "dig", "dii", "dim", "dib", "dip", "dibp" ],
+                [ "la", "lag", "lai", "lam", "lab", "lap", "labp" ],
+                [ "ti", "tig", "tii", "tim", "tib", "tip", "tibp" ],
+                [ "ch", "chg", "chi", "chm", "chb", "chp", "chbp" ],
+                [ "ss", "dive", "orng", "brrl", "vine", "cam", "wave" ],
+                [ "ha", "sns", "n64coin", "cr", "fair", "bm" , "gb"  ]
+              ]
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "right",
+              "item_margin": "0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "l1" ],
+                [ "l2" ],
+                [ "l3" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "item_margin": "-2,3.5,2,3.5",
+              "item_height": 16,
+              "item_width": 58,
+               "rows": [
+                 [ "level1" ],
+                 [ "level2" ],
+                 [ "level3" ]
+               ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-2,1,0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k1b", "a1"],
+                [ "k2b", "a2" ],
+                [ "k3b", "a3" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "10,1,0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "l4" ],
+                [ "l5" ],
+                [ "l6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "item_margin": "-2,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "level4" ],
+                [ "level5" ],
+                [ "level6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-2,1,0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k4b", "a4" ],
+                [ "k5b", "a5" ],
+                [ "k6b", "a6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "10,1,0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "l7" ],
+                [ "l8" ],
+                [ "" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-4,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "level7" ],
+                [ "level8" ],
+                ["isleslabel"]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-2,1,0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k7b", "a7" ],
+                [ "k8", "a8" ],
+                ["a01", "a02"]
+              ]
+            }
+          ]
+        }
+      ]
+  },
+  "tracker_default": {
+    "type": "container",
+    "width": 374,
+    "background": "#212121",
+    "content": {
+      "type": "layout",
+      "dropshadow": true,
+      "margin": 10,
+      "key": "shared_item_grid"
+    }
+  }
+}
