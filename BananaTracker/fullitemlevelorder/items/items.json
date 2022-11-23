@@ -1,0 +1,799 @@
+﻿[
+  {
+    "name": "Donkey Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk.png",
+    "codes": "donkeykong,dk"
+  },
+  {
+    "name": "Coconut Shooter",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_gun.png",
+    "codes": "coconutshooter,dkg"
+  },
+  {
+    "name": "Bongo Blast",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_inst.png",
+    "codes": "bongoblast,dki"
+  },
+  {
+    "name": "Baboon Blast",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dkpad.png",
+    "codes": "baboonblast,dkp"
+  },
+  {
+    "name": "Strong Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dkbarrel.png",
+    "codes": "strongkong,dkb"
+  },
+  {
+    "name": "Gorilla Grab",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/dk_move.png",
+    "codes": "gorillagrab,dkm"
+  },
+  {
+    "name": "DK Blueprints",
+    "type": "consumable",
+    "img": "images/dk_bp.png",
+    "codes": "dkblueprints,dkbp",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Diddy Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy.png",
+    "codes": "diddykong,di"
+  },
+  {
+    "name": "Peanut Popguns",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_gun.png",
+    "codes": "peanutpopguns,dig"
+  },
+  {
+    "name": "Guitar Gazump",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_inst.png",
+    "codes": "guitargazump,dii"
+  },
+  {
+    "name": "Chimpy Charge",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddy_move.png",
+    "codes": "chimpcharge,dim"
+  },
+  {
+    "name": "Rocketbarrel Boost",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddybarrel.png",
+    "codes": "rocketbarrelboost,dib"
+  },
+  {
+    "name": "Simian Spring",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/diddypad.png",
+    "codes": "simianspring,dip"
+  },
+  {
+    "name": "Diddy Blueprints",
+    "type": "consumable",
+    "img": "images/diddy_bp.png",
+    "codes": "diddyblueprints,dibp",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Lanky Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky.png",
+    "codes": "lankykong,la"
+  },
+  {
+    "name": "Grape Shooter",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_gun.png",
+    "codes": "grapeshooter,lag"
+  },
+  {
+    "name": "Trombone Tremor",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_inst.png",
+    "codes": "trombonetremor,lai"
+  },
+  {
+    "name": "OrangStand",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lanky_move.png",
+    "codes": "orangstand,lam"
+  },
+  {
+    "name": "Baboon Balloon",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lankypad.png",
+    "codes": "baboonballoon,lap"
+  },
+  {
+    "name": "OrangStand Sprint",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/lankybarrel.png",
+    "codes": "orangstandsprint,lab"
+  },
+  {
+    "name": "Lanky Blueprints",
+    "type": "consumable",
+    "img": "images/lanky_bp.png",
+    "codes": "lankyblueprints,labp",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Tiny Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny.png",
+    "codes": "tinykong,ti"
+  },
+  {
+    "name": "Feather Bow",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_gun.png",
+    "codes": "featherbow,tig"
+  },
+  {
+    "name": "Saxophone Slam",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_inst.png",
+    "codes": "saxophoneslam,tii"
+  },
+  {
+    "name": "Mini-Monkey",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tinybarrel.png",
+    "codes": "minimonkey,tib"
+  },
+  {
+    "name": "Pony Tail Twirl",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tiny_move.png",
+    "codes": "ponytailtwirl,tim"
+  },
+  {
+    "name": "Monkeyport",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/tinypad.png",
+    "codes": "monkeyport,tip"
+  },
+  {
+    "name": "Tiny Blueprints",
+    "type": "consumable",
+    "img": "images/tiny_bp.png",
+    "codes": "tinyblueprints,tibp",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Chunky Kong",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky.png",
+    "codes": "chunkykong,ch"
+  },
+  {
+    "name": "Pineapple Launcher",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_gun.png",
+    "codes": "pineapplelauncher,chg"
+  },
+  {
+    "name": "Trangle Trample",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_inst.png",
+    "codes": "trangletrample,chi"
+  },
+  {
+    "name": "Hunky Chunky",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunkybarrel.png",
+    "codes": "hunkychunky,chb"
+  },
+  {
+    "name": "Primate Punch",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunky_move.png",
+    "codes": "primatepunch,chm"
+  },
+  {
+    "name": "Gorilla Gone",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/chunkypad.png",
+    "codes": "gorillagone,chp"
+  },
+  {
+    "name": "Chunky Blueprints",
+    "type": "consumable",
+    "img": "images/chunky_bp.png",
+    "codes": "chunkyblueprints,chbp",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 8
+  },
+
+
+  {
+    "name": "Simian Slam",
+    "type": "progressive",
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/slam1.png",
+        "codes": "simianslam,ss"
+      },
+      {
+        "img": "images/slam2.png",
+        "codes": "supersimianslam,sss"
+      },
+      {
+        "img": "images/slam3.png",
+        "codes": "superdupersimianslam,sdss"
+      }
+    ]
+  },
+  {
+    "name": "Homing Ammo",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/homing.png",
+    "codes": "homingammo,ha"
+  },
+  {
+    "name": "Sniper Scope",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/sniper.png",
+    "codes": "sniperscope,sns"
+  },
+  {
+    "name": "Camera",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/film.gif",
+    "codes": "camera,cam"
+  },
+  {
+   "name": "Shockwave",
+   "type": "toggle",
+   "loop": "true",
+   "img": "images/shockwave.png",
+   "codes": "shockwave,wave"
+ },
+  {
+   "name": "Diving",
+   "type": "toggle",
+   "loop": "true",
+   "img": "images/swim.png",
+   "codes": "diving,dive"
+ },
+  {
+   "name": "Orange Throwing",
+   "type": "toggle",
+   "loop": "true",
+   "img": "images/orange.png",
+   "codes": "orange,orng"
+ },
+  {
+   "name": "Barrel Throwing",
+   "type": "toggle",
+   "loop": "true",
+   "img": "images/barrel2.png",
+   "codes": "barrel,brrl"
+ },
+  {
+   "name": "Vine Swinging",
+   "type": "toggle",
+   "loop": "true",
+   "img": "images/vine.png",
+   "codes": "vines,vine"
+ },
+  {
+    "name": "Coins",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/n64rw_coin_rwbw.png",
+        "codes": "n64coin"
+      },
+      {
+        "img": "images/n64rw_coin_n64bw.png",
+        "codes": "rwcoin"
+      },
+      {
+        "img": "images/n64rw_coin.png",
+        "codes": "bothcoins"
+      }
+    ]
+  },
+  {
+    "name": "Battle Crowns",
+    "type": "consumable",
+    "img": "images/crown.png",
+    "codes": "crowns,cr",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 10
+  },
+  {
+    "name": "Banana Fairies",
+    "type": "consumable",
+    "img": "images/fairy.png",
+    "codes": "fairies,fair",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 20
+  },
+  {
+    "name": "Banana Medals",
+    "type": "consumable",
+    "img": "images/bananamedal.gif",
+    "codes": "bananamedals,bm",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 40
+  },
+  {
+    "name": "Golden Bananas",
+    "type": "consumable",
+    "img": "images/GB.gif",
+    "codes": "goldenbananas,gb",
+    "swap_actions": false,
+	  "initial_quantity": 0,
+    "max_quantity": 201
+  },
+
+  {
+    "type": "static",
+    "img": "images/1.png",
+    "codes": "l1"
+  },
+  {
+    "name": "Level 1",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level1"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 1 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k1"
+  },
+  {
+    "name": "Level 1 Key",
+    "type": "toggle_badged",
+    "base_item": "k1",
+    "img": "images/checkmark.png",
+    "codes": "k1b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/2.png",
+    "codes": "l2"
+  },
+  {
+    "name": "Level 2",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level2"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 2 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k2"
+  },
+  {
+    "name": "Level 2 Key",
+    "type": "toggle_badged",
+    "base_item": "k2",
+    "img": "images/checkmark.png",
+    "codes": "k2b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/3.png",
+    "codes": "l3"
+  },
+  {
+    "name": "Level 3",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level3"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 3 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k3"
+  },
+  {
+    "name": "Level 3 Key",
+    "type": "toggle_badged",
+    "base_item": "k3",
+    "img": "images/checkmark.png",
+    "codes": "k3b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/4.png",
+    "codes": "l4"
+  },
+  {
+    "name": "Level 4",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level4"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 4 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k4"
+  },
+  {
+    "name": "Level 4 Key",
+    "type": "toggle_badged",
+    "base_item": "k4",
+    "img": "images/checkmark.png",
+    "codes": "k4b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/5.png",
+    "codes": "l5"
+  },
+  {
+    "name": "Level 5",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level5"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 5 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k5"
+  },
+  {
+    "name": "Level 5 Key",
+    "type": "toggle_badged",
+    "base_item": "k5",
+    "img": "images/checkmark.png",
+    "codes": "k5b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/6.png",
+    "codes": "l6"
+  },
+  {
+    "name": "Level 6",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level6"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 6 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k6"
+  },
+  {
+    "name": "Level 6 Key",
+    "type": "toggle_badged",
+    "base_item": "k6",
+    "img": "images/checkmark.png",
+    "codes": "k6b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/7.png",
+    "codes": "l7"
+  },
+  {
+    "name": "Level 7",
+    "type": "progressive",
+	"loop": true,
+	"allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/unknown.png",
+        "codes": "level7"
+      },
+      {
+        "img": "images/japes.png",
+      },
+      {
+        "img": "images/aztec.png"
+      },
+      {
+        "img": "images/factory.png"
+      },
+      {
+        "img": "images/galleon.png"
+      },
+      {
+        "img": "images/forest.png"
+      },
+      {
+        "img": "images/caves.png"
+      },
+      {
+        "img": "images/castle.png"
+      }
+    ]
+  },
+  {
+    "name": "Level 7 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k7"
+  },
+  {
+    "name": "Level 7 Key",
+    "type": "toggle_badged",
+    "base_item": "k7",
+    "img": "images/checkmark.png",
+    "codes": "k7b"
+  },
+
+  {
+    "type": "static",
+    "img": "images/8.png",
+    "codes": "l8"
+  },
+  {
+    "name": "Level 8",
+    "type": "static",
+    "img": "images/helm.png",
+    "codes": "level8"
+  },
+  {
+    "name": "Level 8 Key",
+    "type": "toggle",
+    "loop": "true",
+    "img": "images/key.png",
+    "codes": "k8"
+  },
+
+  {
+    "type": "static",
+    "img": "images/9.png",
+    "codes": "l9"
+  },
+  {
+    "name": "Isles Label",
+    "type": "static",
+    "img": "images/isles.png",
+    "codes": "isleslabel"
+  }
+
+]

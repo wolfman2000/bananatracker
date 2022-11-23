@@ -1,0 +1,119 @@
+﻿{
+  "tracker_broadcast": {
+    "background": "#212121",
+    "type": "array",
+    "h_alignment": "center",
+    "margin": "10",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "content": [
+          {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_size": 36,
+            "item_margin": "0,0,7,5",
+            "rows": [
+              [ "dk", "dkg", "dki", "dkm", "dkb", "dkp", "dkbp" ],
+              [ "di", "dig", "dii", "dim", "dib", "dip", "dibp" ],
+              [ "la", "lag", "lai", "lam", "lab", "lap", "labp" ],
+              [ "ti", "tig", "tii", "tim", "tib", "tip", "tibp" ],
+              [ "ch", "chg", "chi", "chm", "chb", "chp", "chbp" ],
+              [ "ss", "dive", "orng", "brrl", "vine", "cam", "wave" ],
+              [ "ha", "sns", "n64coin", "cr", "fair", "bm" , "gb"  ]
+            ]
+          }
+        ]
+      },
+      {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "itemgrid",
+              "h_alignment": "right",
+              "item_margin": "0,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "l1" ],
+                [ "l2" ],
+                [ "l3" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "item_margin": "-2,3.5",
+              "item_height": 16,
+              "item_width": 58,
+               "rows": [
+                 [ "level1" ],
+                 [ "level2" ],
+                 [ "level3" ]
+               ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k1b", "l4"],
+                [ "k2b", "l5" ],
+                [ "k3b", "l6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "left",
+              "item_margin": "-2,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "level4" ],
+                [ "level5" ],
+                [ "level6" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "2,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k4b", "l7" ],
+                [ "k5b", "l8" ],
+                [ "k6b", "" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "-4,3.5",
+              "item_height": 16,
+              "item_width": 58,
+              "rows": [
+                [ "level7" ],
+                [ "level8" ]
+              ]
+            },
+            {
+              "type": "itemgrid",
+              "h_alignment": "center",
+              "item_margin": "6,1",
+              "item_height": 20,
+              "item_width": 20,
+              "rows": [
+                [ "k7b"],
+                [ "k8" ]
+              ]
+            }
+          ]
+        }
+    ]
+  }
+}

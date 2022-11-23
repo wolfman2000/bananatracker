@@ -1,26 +1,29 @@
-﻿{
-  "name": "DK64 Item and Move Tracker",
-  "game_name": "Donkey Kong 64",
-  "platform": "n64",
-  "package_version": "1.2.3",
-  "package_uid": "bananatracker_dk64",
-  "layout_engine_version": "1.0",
-  "author": "2dos, OnlySpaghettiCode",
-  "variants": {
-    "standard": {
-      "display_name": "Standard Randomizer"
-    },
-	"levelorder": {
-      "display_name": "Level Order Randomizer Race"
-    },
-  "levelordershops": {
-      "display_name": "Level Order Randomizer Race w/ Shops"
-  },
-    "long": {
-      "display_name": "Long Randomizer"
-    },
-    "101": {
-      "display_name": "101% Playthrough Tracker"
-    }
-  }
+{
+	"name": "DK64 Item and Move Tracker",
+	"game_name": "Donkey Kong 64",
+	"platform": "n64",
+	"package_version": "1.2.4",
+	"package_uid": "bananatracker_dk64",
+	"layout_engine_version": "1.0",
+	"author": "2dos, OnlySpaghettiCode, JXJacob",
+	"variants": {
+		"standard": {
+			"display_name": "Standard Randomizer"
+		},
+		"levelorder": {
+			"display_name": "Level Order Randomizer Race"
+		},
+		"levelordershops": {
+			"display_name": "Level Order Randomizer Race w/ Shops"
+		},
+		"fullitemlevelorder": {
+			"display_name": "Full Item Level Order Randomizer Race"
+		},
+		"long": {
+			"display_name": "Long Randomizer"
+		},
+		"101": {
+			"display_name": "101% Playthrough Tracker"
+		}
+	}
 }
