@@ -1,6 +1,6 @@
 # Banana Tracker
-- An [EmoTracker](https://emotracker.net/) pack for the [Donkey Kong 64 randomizer](https://github.com/2dos/dk64-randomizer) but can also be used for vanilla Donkey Kong 64 as well.
-- Current Version: **Version 1.2.4** (November 8 2022)
+- A planned [PopTracker](https://github.com/black-sliver/PopTracker) pack for the [Donkey Kong 64 randomizer](https://github.com/2dos/dk64-randomizer) but can also be used for vanilla Donkey Kong 64 as well.
+- Current Version: **Version 0.0.1**
 <img src="https://raw.githubusercontent.com/jxjacob/bananatracker/master/bananatracker_example.PNG">
 
 # Features
@@ -13,13 +13,11 @@ This tracker features tracking for various DK64 Randomizer settings as well as 1
 - Nintendo and Rareware coin
 - Golden Banana count
 - Keys and Crowns available in each level
-### 101% playthrough preset
-- Lists only items that count towards the 101% counter (plus Blueprints)
+- Bean and Pearl (eventually/if feasible)
 
 # Instructions for use:
-1. Download EmoTracker at https://emotracker.net/
-2. Download Banana Tracker as a zip file.
-3. Locate your EmoTracker folder in file explorer (likely in your Documents folder).
-4. Extract the Banana Tracker zip file. Open the unzipped folder and move the `BananaTracker` folder into the `\EmoTracker\packs` folder. 
-   - Note: Make sure you don't drag the entire extracted folder into the packs folder. The location should look like this: `\Emotracker\packs\BananaTracker` 
-5. Open EmoTracker. Click the gear, then "Installed Packages." Banana Tracker will be located under "Other."
+1. Download PopTracker at https://github.com/black-sliver/PopTracker/releases
+2. Grab the release Banana Tracker zip file.
+3. Locate your PopTracker folder in file explorer (likely where it's installed).
+4. Move the Banana Tracker zip file into the `\PopTracker\packs` folder. 
+5. Open PopTracker. Click the folder, then select the Banana Tracker package.
